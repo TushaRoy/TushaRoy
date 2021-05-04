@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tushar Roy
-- 👀 I’m interested in 
+- 👀 I’m interested in Javascript
 - 🌱 I’m currently learning NestJs
 - 💞️ I’m looking to collaborate on Nestjs Projects
 - 📫 How to reach me tushar.roy@crownstack.com
